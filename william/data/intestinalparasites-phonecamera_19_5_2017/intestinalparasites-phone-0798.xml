@@ -1,0 +1,20 @@
+<annotation>
+	<source>
+		<database>Makerere Automated Lab Diagnostics Database</database>
+		<annotation>Makerere University</annotation>
+		<image>Mulago National Referral Hospital</image>
+	</source>
+		
+	<object>
+		<label>Hymenolepsis Nana</label>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>543</xmin>
+			<ymin>623</ymin>
+			<xmax>766</xmax>
+			<ymax>818</ymax>
+		</bndbox>
+	</object>
+</annotation>
